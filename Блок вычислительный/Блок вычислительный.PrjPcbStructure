@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=ExternalConnection.SchDot|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ExternalConnection.SchDot|FileName=InterfMCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ExternalConnection.SchDot|FileName=InternalConnection.SchDot|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ExternalConnection.SchDot|FileName=MCU1.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ExternalConnection.SchDot|FileName=MCU2.SchDoc|SheetNumber=3
